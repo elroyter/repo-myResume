@@ -1,0 +1,227 @@
+body {
+    background-color: #F5F7FA;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Стили контейнера на подложке */
+.main-container {
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    background-color: #FFF;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Стили сайдбара */
+.sidebar-section {
+    background-color: #1E2939;
+    width: 300px;
+    
+}
+
+.profile-pic {
+    margin: 40px 0px;
+}
+
+.contacts-section,
+.tech-skills-section {
+    margin: 50px 0 0 40px;
+}
+
+.soft-skills-section {
+    margin: 45px 0 0 40px;
+}
+
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFF;
+    margin-bottom: 10px;
+}
+
+.contacts-intro {
+    color: #FFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0 7px 0 0;
+}
+
+.contacts-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #565F6B;
+}
+
+.skills-list {
+    padding: 0 0 0 17px;
+}
+
+.skills-item {
+    color: #FB6D3A;
+}
+
+.skills-item-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFF;
+}
+
+/* Стили правого блока */
+.main-content-section {
+    padding: 100px 90px;
+} 
+
+.main-content-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin: 0 0 10px 0;
+}
+
+/* Стили About me */
+.about-me-profession {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin: 0 0 20px 0;
+}
+
+.about-me-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin: 0 0 25px 0;
+    color: #000;
+}
+
+.about-me-description {
+    width: 525px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin: 0 0 40px 0;
+}
+/* Стили Projects section */
+.my-projects-section {
+    margin: 0 0 50px 0;
+}
+.my-projects-list {
+    padding: 0 0 0 19px;
+}
+
+.projects-item {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+}
+.projects-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.projects-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin: 0 0 0 13px;
+}
+/* Work exp section */
+
+.work-expirience-section {
+    width: 525px;
+}
+.work-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+    margin: 0 0 8px 0;
+}
+.company-title {
+    color:#FB6D3A;
+}
+
+.working-period {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 0 0 8px 0;
+}
+
+.working-duties {
+    padding: 0 0 0 14px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.duties-results {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+    margin: 0 0 8px 0;
+}
+
+.work-record {
+    margin: 0 0 16px 0;
+}
+
+.studying-experience {
+    width: 525px;
+}
+.about-school21-description {
+    width: 525px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin: 0 0 15px 0;
+}
+.university-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+    margin: 0 0 10px 0;
+}
+
+.bachelor-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin: 0 0 12px 0;
+}
